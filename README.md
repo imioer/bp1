@@ -2,10 +2,13 @@
 
 Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github.io).
 
+## Vežbe
 
-[//]: # (##################### Reference #####################)
+### Skripte
 
-[//]: # (Preporučuje se da iznad i ispod komentara postoji 1 prazna linija zbog nekih parsera)
+- [Vežbe 5](vezbe/01.md)
+
+### Dodatni materijali (opciono)
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [licence-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
