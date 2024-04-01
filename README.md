@@ -7,6 +7,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 ### Skripte
 
 - [Vežbe 6](vezbe/06.md)
+- [Vežbe 7](vezbe/07.md)
 
 ### Dodatni materijali (opciono)
 
