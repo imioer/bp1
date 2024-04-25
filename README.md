@@ -9,7 +9,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 - [Vežbe 6](vezbe/06.md)
 - [Vežbe 7](vezbe/07.md)
 - [Vežbe 8](vezbe/08.md)
-- [Vežbe 9](vezbe/09.md)
+<!--- [Vežbe 9](vezbe/09.md)-->
 
 ### Dodatni materijali (opciono)
 
